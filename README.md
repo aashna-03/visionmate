@@ -2,7 +2,7 @@
 
 **VisionMate** is an intelligent mobile application designed to assist the visually impaired by combining real-time object detection, voice guidance, and emergency response functionalities. Built with a user-centric approach, VisionMate leverages the power of AI and modern mobile technologies to enable independence, safety, and accessibility in daily life.
 
-###[Blog:](https://visionmate-vm.blogspot.com/)
+#### Blog:[https://visionmate-vm.blogspot.com/]
 ---
 
 ## Features
