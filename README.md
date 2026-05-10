@@ -2,6 +2,7 @@
 
 **VisionMate** is an intelligent mobile application designed to assist the visually impaired by combining real-time object detection, voice guidance, and emergency response functionalities. Built with a user-centric approach, VisionMate leverages the power of AI and modern mobile technologies to enable independence, safety, and accessibility in daily life.
 
+###[Blog:](https://visionmate-vm.blogspot.com/)
 ---
 
 ## Features
@@ -123,3 +124,4 @@ TWILIO_AUTH_TOKEN=your_auth_token
 TWILIO_PHONE_NUMBER=your_twilio_phone
 TWILIO_WHATSAPP_NUMBER=your_whatsapp_number
 ```
+
